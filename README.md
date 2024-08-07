@@ -40,7 +40,10 @@ This project is a web application built using the Python Flask framework. The ap
 
 3. Install the required packages:
     ```bash
-    pip install -r requirements.txt 
+    flask
+    Flask-SQLAlchemy
+    flask-login
+    
     ```
 
 ## Usage
