@@ -40,22 +40,14 @@ This project is a web application built using the Python Flask framework. The ap
 
 3. Install the required packages:
     ```bash
-    pip install flask
-    pip install flask-login 
-    ```
-
-4. Set up the database:
-    ```bash
-    flask db init
-    flask db migrate -m "Initial migration."
-    flask db upgrade
+    pip install -r requirements.txt 
     ```
 
 ## Usage
 
 1. Run the application:
     ```bash
-    flask run
+    python main.py
     ```
 
 2. Open your web browser and navigate to `http://127.0.0.1:5000`.
