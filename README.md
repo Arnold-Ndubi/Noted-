@@ -28,8 +28,8 @@ This project is a web application built using the Python Flask framework. The ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/notes-web-app.git
-    cd notes-web-app
+    git clone https://github.com/Arnold-Ndubi/Noted-.git
+    cd Noted
     ```
 
 2. Create and activate a virtual environment:
