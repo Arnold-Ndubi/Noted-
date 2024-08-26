@@ -32,6 +32,4 @@ def delete_note():
     if note:
         if note.user_id == current_user.id:
             db.session.delete(note)
-            db.session.commit()
-
-    return jsonify({})
+            db.session.commit()({})
